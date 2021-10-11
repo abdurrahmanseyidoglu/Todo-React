@@ -1,0 +1,19 @@
+/* #1A4184 - #2560C1 - #333333 - #C9DFFF - #FFFFFF - #D5E6FF */
+
+* {
+    margin: 0;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma, Arial;
+}
+
+.app {
+    margin: 10% 15% 10% 15%;
+    height: 10%;
+    border: 2px solid #1A4184;
+    border-radius: 50px 20px;
+    background-color: #2560C1;
+}

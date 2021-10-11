@@ -1,0 +1,25 @@
+/* #1A4184 - #2560C1 - #333333 - #C9DFFF - #FFFFFF- #D5E6FF */
+
+ul {
+    list-style: none;
+}
+
+.add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-group-text {
+    display: none;
+}
+
+.todo-bg {
+    background-color: #1A4184;
+}
+
+li {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
