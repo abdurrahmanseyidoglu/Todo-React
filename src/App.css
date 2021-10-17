@@ -11,7 +11,8 @@ body {
 }
 
 .app {
-    margin: 10% 15% 10% 15%;
+    
+    margin-top: 15px;
     height: 10%;
     border: 2px solid #1A4184;
     border-radius: 50px 20px;
